@@ -3,7 +3,7 @@ brand security
 
 # installation
 
-`git clone`
+`git clone https://github.com/abhhi-101/brandsec.git`
 
 ` cd brandsec`
 
